@@ -1,0 +1,17 @@
+{
+  "name": "ScreenIt",
+  "version": "1",
+  "description": "Capture the webpage as image and save it .",
+  "background": {
+        "persistent": false,
+        "scripts": ["download.js"]
+  },
+  "manifest_version": 2,
+  "browser_action": {
+        "default_title": "Capture it!",
+        "default_icon": "logo_128.png"
+  },
+  "permissions": [
+        "downloads", "activeTab"
+  ]
+}
