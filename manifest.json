@@ -1,7 +1,7 @@
 {
   "name": "ScreenIt",
   "version": "1",
-  "description": "Capture the webpage as image and save it .",
+  "description": "Capture the webpage as image and save it !",
   "background": {
         "persistent": false,
         "scripts": ["download.js"]
